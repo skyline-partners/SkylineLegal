@@ -1,2 +1,2 @@
-# skyline-legal
-A repo to hold a privacy policy as a GitHub page
+# Skyline Legal
+A place to share the privacy policy and terms of service for our apps
